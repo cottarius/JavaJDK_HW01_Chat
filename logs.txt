@@ -1,0 +1,8 @@
+oleg: hello
+ivan: hi
+Enter login: sdf
+Enter login: dfg
+fgh: fgh
+oleg: dfgdfg
+oleg: ewrt
+ert: ghj
